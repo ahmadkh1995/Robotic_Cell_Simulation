@@ -1,7 +1,7 @@
 # Robotic cell simulation Project
 
 <div align="center"> 
-    <img src="Robotic_cell_HMI.png" alt="robotic_cell_simulation" />
+    <img src="demo.gif" alt="robotic_cell_simulation" />
 </div>
 
 
